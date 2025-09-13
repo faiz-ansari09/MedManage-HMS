@@ -6,17 +6,17 @@ A web-based Hospital Management System (HMS) designed to streamline hospital ope
 
 ## 🚀 Features
 
-👩‍⚕ Patient Management – Registration, login, profile, medical records.
+- 👩‍⚕ Patient Management – Registration, login, profile, medical records.
 
-🧑‍⚕ Doctor Management – Doctor dashboard, charts, schedule management.
+- 🧑‍⚕ Doctor Management – Doctor dashboard, charts, schedule management.
 
-📅 Appointments – Schedule and manage patient appointments.
+- 📅 Appointments – Schedule and manage patient appointments.
 
-🔒 Authentication – Secure login, registration, password management.
+- 🔒 Authentication – Secure login, registration, password management.
 
-📊 Analytics Dashboard – Charts for doctors/patients using ApexCharts.
+- 📊 Analytics Dashboard – Charts for doctors/patients using ApexCharts.
 
-📑 Reports – Export/print in PDF format.
+- 📑 Reports – Export/print in PDF format.
 
 ---
 
@@ -77,31 +77,31 @@ MedManage-HMS/
 
 ## 🛠 Tech Stack
 
-Frontend:
+*Frontend:*
 
-HTML5, CSS3, JavaScript (Vanilla JS + plugins)
+- HTML5, CSS3, JavaScript (Vanilla JS + plugins)
 
-Charts: ApexCharts
+- Charts: ApexCharts
 
-Calendar: FullCalendar
+- Calendar: FullCalendar
 
-Rich text editor: CKEditor
-
-
-Backend:
-
-PHP (Core PHP, includes authentication & CRUD)
-
-MySQL (Database)
+- Rich text editor: CKEditor
 
 
-Other Tools:
+*Backend:*
 
-PUG Templates
+- PHP (Core PHP, includes authentication & CRUD)
 
-PDF Generation
+- MySQL (Database)
 
-External JS Libraries
+
+*Other Tools:*
+
+- PUG Templates
+
+- PDF Generation
+
+- External JS Libraries
 
 ---
 
