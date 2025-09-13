@@ -31,6 +31,13 @@ MedManage-HMS/
 │   │   ├── header.php
 │   │   ├── script.php
 │   │   └── sidebar.php
+│   ├── assets/                 # Shared static files
+│   │   ├── css/                # Stylesheets
+│   │   ├── images/             # Image assets
+│   │   ├── js/                 # JavaScript files
+│   │   ├── pdf/                # Exported PDF files
+│   │   ├── pug/pages/template/ # Template files
+│   │   └── svg/                # SVG icons
 │   ├── addproduct.php
 │   ├── changepassword.php
 │   ├── dashboard.php
@@ -44,15 +51,7 @@ MedManage-HMS/
 │   ├── order.php
 │   ├── registration.php
 │   ├── showproduct.php
-│   ├── test.php
-│   └── assets/                 # Shared static files
-│       ├── css/                # Stylesheets
-│       ├── images/             # Image assets
-│       ├── js/                 # JavaScript files
-│       ├── pdf/                # Exported PDF files
-│       ├── pug/pages/template/ # Template files
-│       └── svg/                # SVG icons
-│
+│   └── test.php
 │── frontend/               # Frontend layouts
 │   └── layouts/
 │       ├── assets/
